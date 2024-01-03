@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [TalentLayer](https://github.com/TalentLayer)
 
-- 🌱 I’m currently learning **Sooo much stuff**
-
 - 👯 I’m looking to collaborate on **privacy & ownership focused web3 projects**
 
 - 👨‍💻 Check out all of my projects here => <a href="https://linktr.ee/quent043" rel="nofollow">quent043</a>
