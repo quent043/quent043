@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Quentin - aka 0xRacoon 🦝</h1>
 <h3 align="center">I'm passionate Web3 dev, surfer & wood worker</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quent043&rank=-C&theme=radical" alt="quent043" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/quentdc043" target="blank"><img src="https://img.shields.io/twitter/follow/quentdc043?logo=twitter&style=for-the-badge" alt="quentdc043" /></a> </p>
 
 - 🔭 I’m currently working on [TalentLayer](https://github.com/TalentLayer)
 
 - 👯 I’m looking to collaborate on **privacy & ownership focused web3 projects**
 
 - 👨‍💻 Check out all of my projects here => <a href="https://linktr.ee/quent043" rel="nofollow">quent043</a>
-
-- ⚡ Fun fact **I love Racoons 🦝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
