@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Quentin - aka 0xRacoon 🦝</h1>
-<h3 align="center">I'm passionate Web3 dev, surfer & wood worker</h3>
+<h1 align="center">Hi 👋, I'm Quentin </h1>
+<h3 align="center">Passionate Web3 dev, surfer & wood worker</h3>
 
 
 - 🔭 I’m currently working on [TalentLayer](https://github.com/TalentLayer)
