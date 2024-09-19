@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quentin 🦝</h1>
+<h1 align="center">Hi 👋, I'm Quentin 🦝,🍀</h1>
 <h3 align="center">Passionate Web3 dev, surfer & wood worker</h3>
 
 
