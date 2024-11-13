@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quentin 🦝,🍀</h1>
-<h3 align="center">Passionate Web3 dev, surfer & wood worker</h3>
+<h3 align="center">Passionate dev, surfer & wood worker</h3>
 
 
 - 🔭 I’m currently working on [TalentLayer](https://github.com/TalentLayer)
-
-- 👯 I’m looking to collaborate on **privacy & ownership focused web3 projects**
 
 - 👨‍💻 Check out all of my projects here => <a href="https://linktr.ee/quent043" rel="nofollow">quent043</a>
 
