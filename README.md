@@ -58,7 +58,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-quent043.vercel.app/api?username=quent043&show_icons=true&locale=en&hide=stars&theme=radical" alt="quent043" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quent043&theme=radical" alt="quent043" /></p>
+<!--
 <p><img align="center" src="https://streak-stats.demolab.com/?user=quent043&theme=radical" alt="quent043" /></p>
+
 <!--
 **quent043/quent043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
